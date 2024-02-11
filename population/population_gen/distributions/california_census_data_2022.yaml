@@ -1,0 +1,62 @@
+Population:
+  Estimates_2023: 38,965,193
+  Estimates_2022: 39,040,616
+  Estimates_Base_2020_V2023: 39,538,212
+  Estimates_Base_2020_V2022: 39,538,212
+  Percent_Change_2020_to_2023: -1.4%
+  Percent_Change_2020_to_2022: -1.3%
+  Census_2020: 39,538,223
+  Census_2010: 37,253,956
+Age_and_Sex:
+  Under_5_Years: 5.5%
+  Under_18_Years: 21.8%
+  Over_65_Years: 15.8%
+  Female: 49.9%
+Race_and_Hispanic_Origin:
+  White: 70.7%
+  Black_or_African_American: 6.5%
+  American_Indian_and_Alaska_Native: 1.7%
+  Asian: 16.3%
+  Native_Hawaiian_and_Other_Pacific_Islander: 0.5%
+  Two_or_More_Races: 4.3%
+  Hispanic_or_Latino: 40.3%
+  White_not_Hispanic_or_Latino: 34.7%
+Population_Characteristics:
+  Veterans: 1,415,562
+  Foreign_born_persons: 26.5%
+Housing:
+  Housing_Units_2022: 14,627,460
+  Owner_occupied_Housing_Unit_Rate: 55.6%
+  Median_Value_of_Owner_occupied_Housing_Units: $659,300
+  Median_Monthly_Owner_Costs_With_Mortgage: $2,759
+  Median_Monthly_Owner_Costs_Without_Mortgage: $732
+  Median_Gross_Rent: $1,856
+  Building_Permits_2022: 119,667
+Families_and_Living_Arrangements:
+  Households: 13,315,822
+  Persons_Per_Household: 2.89
+  Living_in_Same_House_1_Year_Ago: 88.4%
+  Language_Other_Than_English_At_Home: 43.9%
+Computer_and_Internet_Use:
+  Households_with_a_Computer: 95.9%
+  Households_with_Broadband_Internet: 91.5%
+Education:
+  High_School_Graduate_Or_Higher: 84.4%
+  Bachelor_Degree_Or_Higher: 35.9%
+Health:
+  With_Disability_Under_65_Years: 7.1%
+  Without_Health_Insurance_Under_65_Years: 7.5%
+Economy:
+  In_Civilian_Labor_Force: 63.3%
+  In_Civilian_Labor_Force_Female: 57.8%
+  Total_Accommodation_and_Food_Services_Sales: 133,716,870
+  Total_Health_Care_and_Social_Assistance_Receipts: 311,312,156
+  Total_Transportation_and_Warehousing_Receipts: 99,160,737
+  Total_Retail_Sales: 594,861,377
+  Total_Retail_Sales_Per_Capita: $15,122
+Transportation:
+  Mean_Travel_Time_To_Work: 29.2
+Income_and_Poverty:
+  Median_Household_Income: $91,905
+  Per_Capita_Income: $45,591
+  Persons_In_Poverty: 12.2%
